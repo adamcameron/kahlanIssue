@@ -9,7 +9,7 @@
     "require-dev": {
         "ext-libxml": "*",
         "guzzlehttp/guzzle": "^7",
-        "kahlan/kahlan": "^5.0",
+        "kahlan/kahlan": "^5.0.8",
         "phpunit/phpunit": "^9.5",
         "symfony/http-foundation": "^5.2"
     },

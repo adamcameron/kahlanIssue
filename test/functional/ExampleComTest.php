@@ -1,6 +1,6 @@
 <?php
 
-namespace adamCameron\myApp\test\functional;
+namespace adamCameron\kahlanIssue\test\functional;
 
 use GuzzleHttp\Client;
 use PHPUnit\Framework\TestCase;

@@ -4,7 +4,7 @@
     "license": "GPL-3.0-or-later",
     "type": "project",
     "require": {
-        "php": "^8"
+        "php": "^7.4||^8"
     },
     "require-dev": {
         "ext-libxml": "*",

@@ -27,3 +27,8 @@ across executions of the `php` app.
 
 I can replicate at will this on the native Windows file system, on Ubuntu under WSL on the same machine, and on Ubuntu within
 a Docker container on same machine.
+
+I have also been able to replicate it on a second Windows machine.
+
+Having adjusted the PHP version constraints in composer.json, and running the code on PHP 7.4, I *cannot* replicate the issue.
+So it seems this is just an issue with PHP 8.x.

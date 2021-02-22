@@ -1,0 +1,21 @@
+{
+    "name": "adamcameron/kahlan-issue",
+    "description": "Testing an issue in Kahlan I found",
+    "license": "GPL-3.0-or-later",
+    "type": "project",
+    "require": {
+        "php": "^8"
+    },
+    "require-dev": {
+        "ext-libxml": "*",
+        "guzzlehttp/guzzle": "^7",
+        "kahlan/kahlan": "^5.0",
+        "phpunit/phpunit": "^9.5",
+        "symfony/http-foundation": "^5.2"
+    },
+    "autoload-dev": {
+        "psr-4": {
+			"adamCameron\\kahlanIssue\\test\\": "test/"
+        }
+    }
+}
